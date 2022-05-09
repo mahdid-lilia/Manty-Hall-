@@ -1,3 +1,6 @@
+
+
+
 - console mode  : __main__.py
 - graphic mode  : mainWindow.py
 
@@ -10,7 +13,7 @@
     python __main__.py
     
     
-    
+
     
     
     
@@ -30,4 +33,5 @@
     Those who switched doors won about 2/3 of the time
     Those who didn’t switch won about 1/3 of the time
     This fact has been proved over and over again with a plethora of mathematical simulations. If you’re stumped and still don’t believe it — don’t worry, even         mathematicians scratch their head on this one.Try our game!!
-
+    
+ 
